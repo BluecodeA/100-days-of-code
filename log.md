@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 02, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Adapted my pre-existing project for GitHub. Used Git Bash. Uploaded on GitHub Pages
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I understood how my Codepen projects are not ready to be deployed on the web, and the kind of changes that need to be done to make it work outside that environment. I tried to upload the files on GitHub using the command line. I was able to add and commit the file, but I was so disappointed at being unable to push. I ended up uploading via the web version of GitHub, vowing to get better with the command line soon.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Wiki Viewer App](https://bluecodea.github.io/wiki-viewer/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 03, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Write HTML/CSS for my Twitch app
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I used HTML5 tags for the first time. I used SCSS variables for the first time. Still found using HTML5 tags a hinderance to using simple div's, but I am completely sold out on the SASS front. I am excited about the ways in which I can use in in the future. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
 
+<--Logged the above entries on Day 3-->
 
-### Day 1: June 27, Monday
+### Day 3: January 04, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Write HTML/CSS and JavaScript for my Twitch app
+**Thoughts** As an added functionality, I wished to add an option to view the 'Top Games' on Twitch in my app. I worked on the HTML/CSS for that. I had written some jQuery AJAX calls already, today I touched up some of them. Apart from this I went through some video tutorials for git.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
