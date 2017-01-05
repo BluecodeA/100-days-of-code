@@ -21,6 +21,15 @@
 ### Day 3: January 04, 2017
 
 **Today's Progress**: Write HTML/CSS and JavaScript for my Twitch app
-**Thoughts** As an added functionality, I wished to add an option to view the 'Top Games' on Twitch in my app. I worked on the HTML/CSS for that. I had written some jQuery AJAX calls already, today I touched up some of them. Apart from this I went through some video tutorials for git.
+
+**Thoughts**: As an added functionality, I wished to add an option to view the 'Top Games' on Twitch in my app. I worked on the HTML/CSS for that. I had written some jQuery AJAX calls already, today I touched up some of them. Apart from this I went through some video tutorials for git.
+
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 3: January 05, 2017
+
+**Today's Progress**: Write HTML/CSS and JavaScript for my Twitch app
+
+**Thoughts**: Today I set out to complete the 'Top Games' section of my Twitch Watch app, and I did just that. Yesterday I had sorted out the HTML/CSS behind it. Today I used jQuery and JavaScript to update it in real time using the Twitch API. Felt good to set a target and achieve it.
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
