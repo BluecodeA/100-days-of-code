@@ -26,10 +26,18 @@
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
 
-### Day 3: January 05, 2017
+### Day 4: January 05, 2017
 
 **Today's Progress**: Write HTML/CSS and JavaScript for my Twitch app
 
 **Thoughts**: Today I set out to complete the 'Top Games' section of my Twitch Watch app, and I did just that. Yesterday I had sorted out the HTML/CSS behind it. Today I used jQuery and JavaScript to update it in real time using the Twitch API. Felt good to set a target and achieve it.
+
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 5: January 06, 2017
+
+**Today's Progress**: Write HTML/CSS and JavaScript for my Twitch app
+
+**Thoughts**: I was able to finalise on a format and design for my user streams section of my Twitch app. I would've been more pleased if i could've completed the JS part needed to make this section fully ready so that the only thing left was to receive and display API data, but not to be.
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
