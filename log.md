@@ -41,3 +41,11 @@
 **Thoughts**: I was able to finalise on a format and design for my user streams section of my Twitch app. I would've been more pleased if i could've completed the JS part needed to make this section fully ready so that the only thing left was to receive and display API data, but not to be.
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 6: January 07, 2017
+
+**Today's Progress**: Learnt how to not give up after screwing up
+
+**Thoughts**: I prepared the JS using jQuery to add the data I received from my API AJAX call. The code worked alright for streams that were online. But for streams that were not certain data was missing (which I should've noticed earlier). So when I set out to fix it, at some point I decided to put my AJAX calls in a for loop. And that was where it all went wrong.
+
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
