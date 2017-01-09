@@ -49,3 +49,11 @@
 **Thoughts**: I prepared the JS using jQuery to add the data I received from my API AJAX call. The code worked alright for streams that were online. But for streams that were not certain data was missing (which I should've noticed earlier). So when I set out to fix it, at some point I decided to put my AJAX calls in a for loop. And that was where it all went wrong.
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 7: January 08, 2017
+
+**Today's Progress**: Fixed the above issue with Closures
+
+**Thoughts**: If disappointment was my mood after Day 6, Day 7 was all about jubilaton. I found a way to work around the issue where loops referencing outside functions seem to always get the indexing variable wrong. I used a method called 'closure' - which I must admit, I do not fully understand but only partly - to fix the issue. I must give me some time in the future to learn more in detail about this concept and get a better understanding. I also added few more JavaScript commands to complete the functional elements of the Twitch Watch app. 
+
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
