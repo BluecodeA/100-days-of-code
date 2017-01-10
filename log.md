@@ -57,3 +57,11 @@
 **Thoughts**: If disappointment was my mood after Day 6, Day 7 was all about jubilaton. I found a way to work around the issue where loops referencing outside functions seem to always get the indexing variable wrong. I used a method called 'closure' - which I must admit, I do not fully understand but only partly - to fix the issue. I must give me some time in the future to learn more in detail about this concept and get a better understanding. I also added few more JavaScript commands to complete the functional elements of the Twitch Watch app. 
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Finished the Twitch Watch App
+
+**Thoughts**: I missed coding yesterday as I got a lil tied down with other stuff. I could've missed today too, but I was determined not to let go of this commitment, hence I got down to business. Looking forward to working on algorithms tomorrow.
+
+**Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
