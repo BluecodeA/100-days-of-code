@@ -65,3 +65,9 @@
 **Thoughts**: I missed coding yesterday as I got a lil tied down with other stuff. I could've missed today too, but I was determined not to let go of this commitment, hence I got down to business. Looking forward to working on algorithms tomorrow.
 
 **Link(s) to work** [Twitch Watch App](http://codepen.io/BluecodeA/pen/BQGYBz)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Started Intermediate Algorithms
+
+**Thoughts**: I wished to move at a faster pace, but I spent so much time revising the JS basics by skimming through the FCC course. If I didn't feel confident of any of those concepts I practiced them so that took a chunk on my coding time today. Still managed to complete a couple of algorithms. The rest await me tomorrow.
