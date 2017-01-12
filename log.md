@@ -71,3 +71,9 @@
 **Today's Progress**: Started Intermediate Algorithms
 
 **Thoughts**: I wished to move at a faster pace, but I spent so much time revising the JS basics by skimming through the FCC course. If I didn't feel confident of any of those concepts I practiced them so that took a chunk on my coding time today. Still managed to complete a couple of algorithms. The rest await me tomorrow.
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: 6 Intermediate Algorithm Scripting Challenges
+
+**Thoughts**: Made good progress with my Free Code Camp intermediate algorithms. Finished till the 'Missing Letters' challenge. Quite pleased that I didnt quit after completing a couple of tough algorithms and I pushed on.
