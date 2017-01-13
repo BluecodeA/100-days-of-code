@@ -77,3 +77,9 @@
 **Today's Progress**: 6 Intermediate Algorithm Scripting Challenges
 
 **Thoughts**: Made good progress with my Free Code Camp intermediate algorithms. Finished till the 'Missing Letters' challenge. Quite pleased that I didnt quit after completing a couple of tough algorithms and I pushed on.
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: 3 Intermediate Algorithm Scripting Challenges
+
+**Thoughts**: Completed three algorithms. Need to fix a bug on the fourth. Slow day in terms of progress, but I did get in more than an hour of coding.
