@@ -83,3 +83,9 @@
 **Today's Progress**: 3 Intermediate Algorithm Scripting Challenges
 
 **Thoughts**: Completed three algorithms. Need to fix a bug on the fourth. Slow day in terms of progress, but I did get in more than an hour of coding.
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: 1 Intermediate Algorithm Scripting Challenge
+
+**Thoughts**: I started the 'Spinal Tap' challenge thinking it would be much easier. I think that underestimation caused me to waste a lot of time. Waste not as in doing nothing, but rather not doing things the way I should've. I changed my logic quite a few times without understanding what ALL where required and that robbed me of time needed to do more algorith challenges.
