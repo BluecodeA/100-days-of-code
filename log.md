@@ -95,3 +95,9 @@
 **Today's Progress**: 8 Intermediate Algorithm Scripting Challenges
 
 **Thoughts**: I missed coding yesterday caught up with other commitments, so I made up for it today by working extra time. 
+
+### Day 14: January 18, 2017
+
+**Today's Progress**: Finished Intermediate Algorithm Scripting & Started JS Calculator
+
+**Thoughts**: I actually coded the previous day, but I got stuck with the concept of closures and spent time without much fruit. Hence I did not log it as a day of code. But on day 14 I managed to get a better undersranding of closures, finish the algorithm challenge and then move on to write some HTML/CSS for my JavaScript Calculator.
