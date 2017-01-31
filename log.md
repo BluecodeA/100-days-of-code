@@ -103,3 +103,17 @@
 **Thoughts**: I actually coded the previous day, but I got stuck with the concept of closures and spent time without much fruit. Hence I did not log it as a day of code. But on day 14 I managed to get a better undersranding of closures, finish the algorithm challenge and then move on to write some HTML/CSS for my JavaScript Calculator.
 
 **Link to work:** [JavaScript Calculator](http://codepen.io/BluecodeA/pen/jyVRKm)
+
+### Day 15: January 25, 2017
+
+**Today's Progress**: Learning PHP on Codecademy
+
+**Thoughts** Nothing flashy, just went through a few lessons in the course.
+
+### Day 16: January 31, 2017
+
+**Today's Progress**: JS Calculator fully functional
+
+**Thoughts**: I am disappointed about the days I skipped, but I am glad with the work i got done today.
+
+**Link to work:** [JavaScript Calculator](http://codepen.io/BluecodeA/pen/jyVRKm)
